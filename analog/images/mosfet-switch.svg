@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 310 300" role="img" aria-label="N 沟道 MOSFET 低侧开关">
+<rect width="100%" height="100%" fill="none"/>
+<circle cx="140" cy="26" r="3.2" fill="currentColor"/>
+<text x="140" y="16" font-family="Menlo, Consolas, 'Courier New', monospace" font-size="14" fill="var(--muted)" text-anchor="middle">Vcc</text>
+<line x1="140" y1="26" x2="140" y2="48" stroke="currentColor" stroke-width="2" fill="none"/>
+<line x1="140" y1="48" x2="140" y2="58" stroke="currentColor" stroke-width="2" fill="none"/>
+<rect x="129" y="58" width="22" height="42" stroke="currentColor" stroke-width="2" fill="none"/>
+<line x1="140" y1="100" x2="140" y2="110" stroke="currentColor" stroke-width="2" fill="none"/>
+<text x="156" y="84.0" font-family="Menlo, Consolas, 'Courier New', monospace" font-size="15" fill="var(--fg)" text-anchor="start">负载</text>
+<line x1="140" y1="110" x2="140" y2="142" stroke="currentColor" stroke-width="2" fill="none"/>
+<line x1="133" y1="156" x2="147" y2="156" stroke="currentColor" stroke-width="2" fill="none"/>
+<line x1="133" y1="172" x2="147" y2="172" stroke="currentColor" stroke-width="2" fill="none"/>
+<line x1="133" y1="188" x2="147" y2="188" stroke="currentColor" stroke-width="2" fill="none"/>
+<line x1="140" y1="202" x2="140" y2="222" stroke="currentColor" stroke-width="2" fill="none"/>
+<line x1="132" y1="196" x2="138.06217782649108" y2="192.5" stroke="currentColor" stroke-width="2" fill="none"/>
+<line x1="132" y1="196" x2="138.06217782649108" y2="199.5" stroke="currentColor" stroke-width="2" fill="none"/>
+<line x1="140" y1="196" x2="133" y2="196" stroke="currentColor" stroke-width="2" fill="none"/>
+<line x1="108" y1="148" x2="108" y2="196" stroke="currentColor" stroke-width="2.8" fill="none"/>
+<line x1="108" y1="172" x2="92" y2="172" stroke="currentColor" stroke-width="2" fill="none"/>
+<line x1="38" y1="172" x2="48" y2="172" stroke="currentColor" stroke-width="2" fill="none"/>
+<rect x="48" y="161" width="34" height="22" stroke="currentColor" stroke-width="2" fill="none"/>
+<line x1="82" y1="172" x2="92" y2="172" stroke="currentColor" stroke-width="2" fill="none"/>
+<text x="65.0" y="156" font-family="Menlo, Consolas, 'Courier New', monospace" font-size="15" fill="var(--fg)" text-anchor="middle">Rg</text>
+<circle cx="38" cy="172" r="3.2" fill="currentColor"/>
+<text x="38" y="160" font-family="Menlo, Consolas, 'Courier New', monospace" font-size="14" fill="var(--muted)" text-anchor="middle">GPIO</text>
+<circle cx="108" cy="172" r="3.2" fill="currentColor"/>
+<line x1="108" y1="172" x2="108" y2="200" stroke="currentColor" stroke-width="2" fill="none"/>
+<line x1="108" y1="200" x2="108" y2="210" stroke="currentColor" stroke-width="2" fill="none"/>
+<rect x="97" y="210" width="22" height="24" stroke="currentColor" stroke-width="2" fill="none"/>
+<line x1="108" y1="234" x2="108" y2="244" stroke="currentColor" stroke-width="2" fill="none"/>
+<text x="92" y="227.0" font-family="Menlo, Consolas, 'Courier New', monospace" font-size="15" fill="var(--fg)" text-anchor="end">Rgs 100k</text>
+<line x1="140" y1="222" x2="140" y2="229" stroke="currentColor" stroke-width="2" fill="none"/>
+<line x1="125" y1="229" x2="155" y2="229" stroke="currentColor" stroke-width="2.6" fill="none"/>
+<line x1="131" y1="235" x2="149" y2="235" stroke="currentColor" stroke-width="2.6" fill="none"/>
+<line x1="136.5" y1="241" x2="143.5" y2="241" stroke="currentColor" stroke-width="2.6" fill="none"/>
+<line x1="108" y1="244" x2="108" y2="251" stroke="currentColor" stroke-width="2" fill="none"/>
+<line x1="93" y1="251" x2="123" y2="251" stroke="currentColor" stroke-width="2.6" fill="none"/>
+<line x1="99" y1="257" x2="117" y2="257" stroke="currentColor" stroke-width="2.6" fill="none"/>
+<line x1="104.5" y1="263" x2="111.5" y2="263" stroke="currentColor" stroke-width="2.6" fill="none"/>
+<text x="165" y="158" font-family="Menlo, Consolas, 'Courier New', monospace" font-size="15" fill="var(--muted)" text-anchor="start">Q1 N-MOS</text>
+</svg>

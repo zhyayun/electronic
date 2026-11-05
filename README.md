@@ -23,6 +23,8 @@ electronic/
 └── docs/          # 参考资料、学习记录
 ```
 
+📝 笔记入口：[模拟电子笔记](analog/README.md)
+
 ## 🛠️ 工具
 
 - 仿真：LTspice / Multisim / TINA-TI

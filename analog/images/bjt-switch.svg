@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 310 290" role="img" aria-label="NPN 三极管低侧开关">
+<rect width="100%" height="100%" fill="none"/>
+<circle cx="130" cy="26" r="3.2" fill="currentColor"/>
+<text x="130" y="16" font-family="Menlo, Consolas, 'Courier New', monospace" font-size="14" fill="var(--muted)" text-anchor="middle">Vcc</text>
+<line x1="130" y1="26" x2="130" y2="48" stroke="currentColor" stroke-width="2" fill="none"/>
+<line x1="130" y1="48" x2="130" y2="58" stroke="currentColor" stroke-width="2" fill="none"/>
+<rect x="119" y="58" width="22" height="42" stroke="currentColor" stroke-width="2" fill="none"/>
+<line x1="130" y1="100" x2="130" y2="110" stroke="currentColor" stroke-width="2" fill="none"/>
+<text x="146" y="84.0" font-family="Menlo, Consolas, 'Courier New', monospace" font-size="15" fill="var(--fg)" text-anchor="start">Rc（负载）</text>
+<circle cx="130" cy="165" r="28" stroke="currentColor" stroke-width="2" fill="none"/>
+<line x1="130" y1="110" x2="130" y2="137" stroke="currentColor" stroke-width="2" fill="none"/>
+<line x1="112" y1="146" x2="112" y2="184" stroke="currentColor" stroke-width="2.6" fill="none"/>
+<line x1="130" y1="137" x2="114" y2="152" stroke="currentColor" stroke-width="2" fill="none"/>
+<line x1="114" y1="178" x2="130" y2="193" stroke="currentColor" stroke-width="2" fill="none"/>
+<line x1="130" y1="193" x2="123.15264214738124" y2="191.5461463491189" stroke="currentColor" stroke-width="2" fill="none"/>
+<line x1="130" y1="193" x2="127.8353952687384" y2="186.34308732538875" stroke="currentColor" stroke-width="2" fill="none"/>
+<line x1="112" y1="165" x2="96" y2="165" stroke="currentColor" stroke-width="2" fill="none"/>
+<line x1="30" y1="165" x2="40" y2="165" stroke="currentColor" stroke-width="2" fill="none"/>
+<rect x="40" y="154" width="46" height="22" stroke="currentColor" stroke-width="2" fill="none"/>
+<line x1="86" y1="165" x2="96" y2="165" stroke="currentColor" stroke-width="2" fill="none"/>
+<text x="63.0" y="149" font-family="Menlo, Consolas, 'Courier New', monospace" font-size="15" fill="var(--fg)" text-anchor="middle">Rb</text>
+<circle cx="30" cy="165" r="3.2" fill="currentColor"/>
+<text x="30" y="153" font-family="Menlo, Consolas, 'Courier New', monospace" font-size="14" fill="var(--muted)" text-anchor="middle">GPIO</text>
+<line x1="130" y1="193" x2="130" y2="215" stroke="currentColor" stroke-width="2" fill="none"/>
+<line x1="130" y1="215" x2="130" y2="222" stroke="currentColor" stroke-width="2" fill="none"/>
+<line x1="115" y1="222" x2="145" y2="222" stroke="currentColor" stroke-width="2.6" fill="none"/>
+<line x1="121" y1="228" x2="139" y2="228" stroke="currentColor" stroke-width="2.6" fill="none"/>
+<line x1="126.5" y1="234" x2="133.5" y2="234" stroke="currentColor" stroke-width="2.6" fill="none"/>
+<text x="168" y="160" font-family="Menlo, Consolas, 'Courier New', monospace" font-size="15" fill="var(--muted)" text-anchor="start">Q1</text>
+</svg>

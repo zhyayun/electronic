@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 250 260" role="img" aria-label="RC 充放电电路">
+<rect width="100%" height="100%" fill="none"/>
+<circle cx="120" cy="30" r="3.2" fill="currentColor"/>
+<text x="120" y="20" font-family="Menlo, Consolas, 'Courier New', monospace" font-size="14" fill="var(--muted)" text-anchor="middle">Vin</text>
+<line x1="120" y1="30" x2="120" y2="55" stroke="currentColor" stroke-width="2" fill="none"/>
+<line x1="120" y1="55" x2="120" y2="65" stroke="currentColor" stroke-width="2" fill="none"/>
+<rect x="109" y="65" width="22" height="45" stroke="currentColor" stroke-width="2" fill="none"/>
+<line x1="120" y1="110" x2="120" y2="120" stroke="currentColor" stroke-width="2" fill="none"/>
+<text x="136" y="92.5" font-family="Menlo, Consolas, 'Courier New', monospace" font-size="15" fill="var(--fg)" text-anchor="start">R</text>
+<circle cx="120" cy="120" r="3.2" fill="currentColor"/>
+<text x="145" y="116" font-family="Menlo, Consolas, 'Courier New', monospace" font-size="15" fill="var(--accent)" text-anchor="start">Vc(t)</text>
+<line x1="120" y1="120" x2="120" y2="146.0" stroke="currentColor" stroke-width="2" fill="none"/>
+<line x1="105" y1="146.0" x2="135" y2="146.0" stroke="currentColor" stroke-width="2.6" fill="none"/>
+<line x1="105" y1="164.0" x2="135" y2="164.0" stroke="currentColor" stroke-width="2.6" fill="none"/>
+<line x1="120" y1="164.0" x2="120" y2="190" stroke="currentColor" stroke-width="2" fill="none"/>
+<text x="136" y="160.0" font-family="Menlo, Consolas, 'Courier New', monospace" font-size="15" fill="var(--fg)" text-anchor="start">C</text>
+<line x1="120" y1="195" x2="120" y2="202" stroke="currentColor" stroke-width="2" fill="none"/>
+<line x1="105" y1="202" x2="135" y2="202" stroke="currentColor" stroke-width="2.6" fill="none"/>
+<line x1="111" y1="208" x2="129" y2="208" stroke="currentColor" stroke-width="2.6" fill="none"/>
+<line x1="116.5" y1="214" x2="123.5" y2="214" stroke="currentColor" stroke-width="2.6" fill="none"/>
+</svg>
